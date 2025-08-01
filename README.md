@@ -92,3 +92,11 @@ This dashboard focuses on the financial oversight and progress tracking of water
     * `Average_queue_time` (in `water_source` table): Calculates average queue time per source for basic access classification.
     * `Basic_water_access` (in `water_source` table): Classifies each water source as 'Basic Access' or 'Below Basic Access' based on UN requirements and specific criteria (e.g., clean wells, queue times for shared taps, taps in homes).
 * **DAX Measures:** Custom measures for cumulative sums (`cumulative_budget`, `cumulative_cost`), basic water access percentage, and project counts (`Total projects in backlog`, `Number of completed projects`), and cost difference (`Difference`).
+
+
+**Provinces:**
+![Province 1 Page](Images/Province%201.png)
+![Province 2 Page](Images/Province%202.png)
+![Province 3 Page](Images/Province%203.png)
+![Province 4 Page](Images/Province%204.png)
+![Province 5 Page](Images/Province%205.png)
