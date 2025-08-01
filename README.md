@@ -26,6 +26,8 @@ This project features two distinct Power BI dashboards:
 
 ### 1. Maji Ndogo Stakeholder's Dashboard (For Decision-Makers)
 
+![Stakeholder's Dashboard](https://github.com/abe-temitope/Maji-Ndogo-Water-Project-PowerBI/tree/main/Images/Stakeholder national.png "Stakeholder's Dashboard")
+
 This dashboard is tailored for key decision-makers, such as President Aziza Naledi and provincial leaders, providing them with critical data to understand the overall status of water access, identify challenges, and make informed financial and operational decisions.
 
 **Purpose:** To empower national and provincial leaders with accurate, actionable data regarding water access challenges, upgrade requirements, and financial expenditures, facilitating strategic planning and resource allocation.
@@ -48,6 +50,8 @@ This dashboard is tailored for key decision-makers, such as President Aziza Nale
 * **Accountability:** Provides a clear overview of financial commitments and their corresponding outputs.
 
 ### 2. Maji Ndogo Public Dashboard (For Public Project Monitoring)
+
+![Alt text for the image](path/to/your/image.jpg "Optional title text on hover")
 
 This dashboard focuses on the financial oversight and progress tracking of water improvement projects across Maji Ndogo. It aims to provide transparency to the general public and stakeholders on budgeted vs. actual costs and project completion status.
 
@@ -88,11 +92,3 @@ This dashboard focuses on the financial oversight and progress tracking of water
     * `Average_queue_time` (in `water_source` table): Calculates average queue time per source for basic access classification.
     * `Basic_water_access` (in `water_source` table): Classifies each water source as 'Basic Access' or 'Below Basic Access' based on UN requirements and specific criteria (e.g., clean wells, queue times for shared taps, taps in homes).
 * **DAX Measures:** Custom measures for cumulative sums (`cumulative_budget`, `cumulative_cost`), basic water access percentage, and project counts (`Total projects in backlog`, `Number of completed projects`), and cost difference (`Difference`).
-
----
-
-## Dashboard Images
-
-Images showcasing various dashboard layouts and visualizations can be found in the `Maji Ndogo Water Project - PowerBI/Images` folder within this repository.
-
----
