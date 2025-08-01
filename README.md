@@ -26,7 +26,7 @@ This project features two distinct Power BI dashboards:
 
 ### 1. Maji Ndogo Stakeholder's Dashboard (For Decision-Makers)
 
-![Stakeholder's Dashboard](https://github.com/abe-temitope/Maji-Ndogo-Water-Project-PowerBI/tree/main/Images/Stakeholder national.png "Stakeholder's Dashboard")
+![Stakeholder's Dashboard](Images/Stakeholder%20national.png) "Stakeholder's Dashboard")
 
 This dashboard is tailored for key decision-makers, such as President Aziza Naledi and provincial leaders, providing them with critical data to understand the overall status of water access, identify challenges, and make informed financial and operational decisions.
 
