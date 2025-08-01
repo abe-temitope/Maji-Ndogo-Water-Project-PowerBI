@@ -51,7 +51,7 @@ This dashboard is tailored for key decision-makers, such as President Aziza Nale
 
 ### 2. Maji Ndogo Public Dashboard (For Public Project Monitoring)
 
-![Alt text for the image](path/to/your/image.jpg "Optional title text on hover")
+![Public Dashboard](Images/population.png) "Public Dashboard")
 
 This dashboard focuses on the financial oversight and progress tracking of water improvement projects across Maji Ndogo. It aims to provide transparency to the general public and stakeholders on budgeted vs. actual costs and project completion status.
 
@@ -94,9 +94,16 @@ This dashboard focuses on the financial oversight and progress tracking of water
 * **DAX Measures:** Custom measures for cumulative sums (`cumulative_budget`, `cumulative_cost`), basic water access percentage, and project counts (`Total projects in backlog`, `Number of completed projects`), and cost difference (`Difference`).
 
 
+**Budget Vs Cost:**
+![Budget Vs Cost](Images/Budget%20vs%20cost.png) "Budget vs Cost Page")
+
+**Vendors:**
+![Budget Vs Cost](Images/Vendor.png) "Vendor's Page")
+
 **Provinces:**
 ![Province 1 Page](Images/Province%201.png)
 ![Province 2 Page](Images/Province%202.png)
 ![Province 3 Page](Images/Province%203.png)
 ![Province 4 Page](Images/Province%204.png)
 ![Province 5 Page](Images/Province%205.png)
+
